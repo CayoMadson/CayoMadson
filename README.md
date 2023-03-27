@@ -2,7 +2,7 @@
 
 -💻Estudante de T.i<br>
 -🎨Me identifico na área de Web-Design<br>
--🦾Estudando PHP
+-🦾Estudando HTML,CSS e JS
 
 <picture>
 <source 
