@@ -1,8 +1,6 @@
 ### Olá👋,me chamo Cayo Madson
 
--💻Estudante de T.i<br>
--🎨Me identifico na área de Web-Design<br>
--🦾Estudando HTML,CSS e JS
+-💻Desenvolvedor Front-End<br>
 
 <picture>
 <source 
